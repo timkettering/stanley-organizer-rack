@@ -9,6 +9,8 @@ Build specs for a 10 shallow / 5 deep Stanley organizer rack
 
 ## 3D Printed Funnel + Spacer
 
+<img width="1270" alt="image" src="https://user-images.githubusercontent.com/272658/147615727-10692c7d-d646-4f85-a19b-399e2f43b6a2.png">
+
 The funnel+spacer will help you precsiely position 10 rails on each side of the rack.
 
 Functionally, the funnel+spacer is not required.  But if you are able to print them out, then you can save yourself a lot of tedious measuring and just
@@ -17,6 +19,8 @@ screw the spacers to the sides of the rack walls and then place the rails inside
 Building the cabinet as per the diagram above, you'll need to print (5) copies each of LEFT and RIGHT.  (for a total of 10 pieces)
 
 Each side will require (4) full sized spacers.  Two for the front, two for the back.  Each full sized spacer will provide guidance for (4) rails for a total of eight rails.
+
+LEFT and RIGHT are mirrors of each other and will be used on both sides of the rack depending if it is a front or back piece.  The important thing is that they all face up in the same direction.
 
 For the final two rails, by cutting remaining LEFT and RIGHT spacers in half (using a fine saw or a hot wire and the helpful notch in the print), you now have four half-sized parts to create the guides for the two remaining rails.
 
